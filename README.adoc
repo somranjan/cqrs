@@ -1,3 +1,5 @@
 = Scalable, event-driven coffee shop
 
 How to use event sourcing in several services with an event-driven architecture, Apache Kafka and Java EE.
+
+https://blog.sebastian-daschner.com/entries/event_sourcing_cqrs_video_course
